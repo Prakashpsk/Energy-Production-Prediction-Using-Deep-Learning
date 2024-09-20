@@ -3,6 +3,8 @@
 ## 📖 Introduction
 This project aims to predict hourly energy production based on various features such as weather conditions, time, and energy source (e.g., solar) using a deep learning approach. The insights gained from this analysis can drive more efficient energy management and forecasting.
 
+![Energy Production Prediction Using Deep Learning](https://github.com/Prakashpsk/Energy-Production-Prediction-Using-Deep-Learning/blob/main/power%20prediction%20image.jpg)
+
 ## 🛠️ Skills/Concepts Developed
 - Data Preprocessing and Cleaning
 - Exploratory Data Analysis (EDA)
